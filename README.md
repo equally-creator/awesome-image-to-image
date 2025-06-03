@@ -15,6 +15,7 @@
 
 ## 🆓 Free Services
 
+- [Vheer](https://vheer.com/app/image-to-image): Vheer’s AI Image to Image feature instantly transforms your photos into creative artworks by adjusting style, color, and composition using advanced AI.
 - [Dezgo](https://dezgo.com/): A clean, ad-free Stable Diffusion–powered generator that lets you create and share AI images in a gallery-style interface.
 - [Monica](https://monica.im/en/image-tools/image-to-image-ai): A lightweight web tool using SDXL to turn channel-based prompts into high-quality images with preconfigured keyword presets.
 - [Craiyon](https://craiyon.com): A free, low-resolution successor to DALL·E Mini that produces whimsical, fast-and-fun AI art from simple text prompts.
@@ -39,7 +40,6 @@
 - [Imgupscaler](https://imgupscaler.com/reimagine): A web-based AI upscaler that increases image resolution up to 4× with the addition of a easy-to-use reimagine feature, perfect for reimagining photos.
 - [Pincel app](https://pincel.app/tools/reimagine): A mobile 3D sculpting and painting tool that uses AI brushes to auto-generate detailed textures and forms on touch.
 - [Pixcap](https://pixcap.com/): A collaborative 3D animation studio in the browser, where AI assists in material creation, rigging, and keyframe generation.
-- [Vheer](https://vheer.com/app/image-to-image): Vheer’s AI Image to Image feature instantly transforms your photos into creative artworks by adjusting style, color, and composition using advanced AI.
 
 ## 💰 Paid Services
 
