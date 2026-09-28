@@ -15,6 +15,7 @@
 
 ## 🆓 Free Services
 
+- [Raphael AI](https://raphael.app): Free AI that turns any photo into a painting (oil, watercolor, anime, and more) with multi-model routing — no signup wall for basic use.
 - [Vheer](https://vheer.com/app/image-to-image): Vheer’s AI Image to Image feature instantly transforms your photos into creative artworks by adjusting style, color, and composition using advanced AI.
 - [Dezgo](https://dezgo.com/): A clean, ad-free Stable Diffusion–powered generator that lets you create and share AI images in a gallery-style interface.
 - [Monica](https://monica.im/en/image-tools/image-to-image-ai): A lightweight web tool using SDXL to turn channel-based prompts into high-quality images with preconfigured keyword presets.
