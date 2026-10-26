@@ -19,6 +19,7 @@
 - [Dezgo](https://dezgo.com/): A clean, ad-free Stable Diffusion–powered generator that lets you create and share AI images in a gallery-style interface.
 - [Monica](https://monica.im/en/image-tools/image-to-image-ai): A lightweight web tool using SDXL to turn channel-based prompts into high-quality images with preconfigured keyword presets.
 - [Craiyon](https://craiyon.com): A free, low-resolution successor to DALL·E Mini that produces whimsical, fast-and-fun AI art from simple text prompts.
+- [PromptImage](https://promptimage.cloud): Free AI image & video studio with a prompt library and freemium signup credits (no card required); useful for image-to-image style workflows in the browser.
 - [Stable Diffusion Online](https://stablediffusionweb.com): A browser-hosted interface for the Stable Diffusion model offering real-time image generation and basic editing controls.
 - [Deep Dream Generator](https://deepdreamgenerator.com): An inception-based tool that “dreamifies” your photos into surreal, hallucinogenic artworks via neural network processing.
 - [NightCafe](https://nightcafe.studio): The entry-level tier of NightCafe’s credit-based platform, offering text-to-image and style-transfer workflows with a daily free credit allocation.
